@@ -191,5 +191,3 @@ If you have any questions or run into issues, please create an issue in this rep
 
 If this project helped you, please give it a ⭐ on GitHub!
 
-
-**Built with [Manish](https://github.com/manish3173)**
