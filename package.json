@@ -1,0 +1,19 @@
+{
+  "name": "clinic-management-system",
+  "version": "1.0.0",
+  "description": "Full-stack clinic management system",
+  "scripts": {
+    "build": "cd backend && npm install && npm run build",
+    "start": "cd backend && npm run start:prod",
+    "install-backend": "cd backend && npm install",
+    "dev": "cd backend && npm run start:dev"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manish3173/StayVel.git"
+  }
+}
