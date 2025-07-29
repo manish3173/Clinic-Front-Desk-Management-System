@@ -50,6 +50,8 @@ cd Clinic-Front-Desk-Management-System
 ```bash
 npm install
 cd backend && npm install
+npm install --save-dev @nestjs/cli --force
+
 cd ../frontend && npm install
 ```
 
